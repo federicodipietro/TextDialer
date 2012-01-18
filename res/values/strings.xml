@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="MainAct">TextDialer</string>
+    <string name="app_name">TextDailer</string>
+	<string name="btnDial">Componi</string>
+	<string name="btnCall">Chiama</string>
+	
+</resources>
